@@ -1,6 +1,6 @@
 # Pizza Bot
 
-We created a responsive desktopfirst text-based pizza chatbot using Javascript and pair-programming. 
+We (Marjaana & Elisa) created a responsive desktopfirst text-based pizza chatbot using Javascript and pair-programming. 
 
 ## The problem
  
@@ -37,6 +37,4 @@ After googling we found a solution to our problem, giving the pizzaImg the attri
 
 
 ## View it live
-
- Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
  Deployed project link: https://enjoypizza.netlify.app/
